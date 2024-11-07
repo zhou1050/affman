@@ -1,6 +1,6 @@
 1、点击-我的邀请
 
-![image](https://github.com/user-attachments/assets/5dc28579-3832-49b2-83cf-151543248000)
+![image](https://github.com/user-attachments/assets/13fa5fa8-ec91-4219-84fe-ba8e82188490)
 
 2、点击-生成邀请码
 
